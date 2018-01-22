@@ -11,3 +11,11 @@
 ### [Special Issue: Blockchain and Economic Knowledge Automation(IEEE Transactions on Systems, Man, and Cybernetics: Systems)](http://www.ieeesmc.org/images/publications/smc-systems/Blockchain-and-Economic-Knowledge-Automation.pdf)
 * IF:2.35
 * June 1, 2018
+
+# Researcher
+## Domestic
+### (蔡维德)[http://graduate.buaa.edu.cn/TutorInfo.jsp?id=213823]
+* 北航
+* 千人
+
+## Foreign
