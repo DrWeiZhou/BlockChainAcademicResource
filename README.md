@@ -1,6 +1,23 @@
 区块链学术资源
 # CFP
 ## Conferences
+### [CCS 2018](http://conference.researchbib.com/view/event/70537)?
+* 2018-05-19
+* Toronto, ON, 加拿大
+* CCF-A
+### [IEEE S&P 2018](https://www.ieee-security.org/TC/SP2018/cfpapers.html)
+* IEEE S&P now accepts paper submissions 12 times a year, on the first of each month
+* MAY 21-23, 2018 AT THE HYATT REGENCY, SAN FRANCISCO, CA
+* CCF-A
+### [Crypto 2018 ](https://crypto.iacr.org/2018/)
+* February 13, 2018
+* University of California, Santa Barbara (UCSB)
+* CCF-A
+### [USENIX SECURITY 2018](https://www.usenix.org/conference/usenixsecurity18)
+* February 8, 2018
+* BALTIMORE, MD, USA
+* CCF-A
+
 ### [IEEE Blockchain 2018 : IEEE International Conference on Blockchain (Blockchain-2018)](http://cse.stfx.ca/~blockchain2018/cfp.php)
 * March 15, 2018
 * Halifax,Canada
