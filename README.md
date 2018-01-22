@@ -14,7 +14,7 @@
 
 # Researcher
 ## Domestic
-### (蔡维德)[http://graduate.buaa.edu.cn/TutorInfo.jsp?id=213823]
+### [蔡维德](http://graduate.buaa.edu.cn/TutorInfo.jsp?id=213823)
 * 北航
 * 千人
 
