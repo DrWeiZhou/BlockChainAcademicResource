@@ -17,7 +17,10 @@
 * February 8, 2018
 * BALTIMORE, MD, USA
 * CCF-A
-
+### [ACM PODC 2018](https://www.podc.org/podc2018/call-for-papers/)
+* February 18, 2018
+* Royal Holloway, University of London, Egham, United Kingdom
+* CCF-B
 ### [IEEE Blockchain 2018 : IEEE International Conference on Blockchain (Blockchain-2018)](http://cse.stfx.ca/~blockchain2018/cfp.php)
 * March 15, 2018
 * Halifax,Canada
@@ -43,7 +46,7 @@
 ### [Special Issue: Blockchain and Economic Knowledge Automation(IEEE Transactions on Systems, Man, and Cybernetics: Systems)](http://www.ieeesmc.org/images/publications/smc-systems/Blockchain-and-Economic-Knowledge-Automation.pdf)
 * IF:2.35
 * June 1, 2018
-### [Special Issue on Blockchain and Decentralization for Internet of Things()](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-blockchain-and-decentralization-for-interne)
+### [Special Issue on Blockchain and Decentralization for Internet of Things(Future Generation Computer Systems)](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/special-issue-on-blockchain-and-decentralization-for-interne)
 * IF: 3.997
 * October 10th, 2018
 * extended paper of [iThings 2018](http://cse.stfx.ca/~iThings2018/si.php) 10 February, 2018
