@@ -65,3 +65,5 @@
 * 千人
 
 ## Foreign
+### [Ghassan Karame](http://www.ghassankarame.com/)
+* interested in all aspects of security and privacy with a focus on cloud security, IoT security, network security, and Blockchain security.
