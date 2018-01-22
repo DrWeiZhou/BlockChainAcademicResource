@@ -15,6 +15,12 @@
 ### [CVCBT, IEEE Switzerland 2018 : Call for Papers for the 1st Crypto Valley Conference on Blockchain Technology (CVCBT), IEEE Switzerland](https://www.cryptovalleyconference.com/technology-call-for-papers)
 * Feb 15, 2018
 * Zug, Switzerland
+### [SDIM 2018 : SDIM 2018: The 1st IEEE International Workshop on Secure Digital Identity Management Workshop organizers](https://www.computer.org/web/compsac2018/sdim)
+* Tokyo, Japan
+* Apr 10, 2018
+### [DISSECT 2018 : IEEE/IFIP Workshop on Security for Emerging Distributed Network Technologies](https://dissect.vcu.edu/2018/)
+* Taipei, Taiwan
+* Jan 26, 2018
 
 ## Journals
 ### [Special Issue Blockchain Technology(International Journal of Performability Engineering (IJPE))](http://mp.weixin.qq.com/s?__biz=MjM5NzU3MDI3OQ==&mid=2653545006&idx=1&sn=4aa3451b3ed748d46992dd7dc5947f12&chksm=bd0ab1a68a7d38b08683dbf0e46b5fd71b059b9f66b1199dc35dececf4460bb0a8f9a7597766&mpshare=1&scene=1&srcid=1230w1NG8Y9gpc8PIGebxe0N##)
