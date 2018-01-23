@@ -66,3 +66,14 @@
 ## Foreign
 ### [Ghassan Karame](http://www.ghassankarame.com/)
 * interested in all aspects of security and privacy with a focus on cloud security, IoT security, network security, and Blockchain security.
+
+
+# Survey
+* _A survey on the security of blockchain systems.pdf
+* _Bitcoin and Beyond_A Technical Survey on Decentralized Digital Currencies.pdf
+* _区块链技术_架构及进展.pdf
+* Blockchain Challenges and Opportunities_A Survey.pdf
+* 区块链技术发展现状与展望_袁勇.pdf
+* =A Survey of Blockchain Security Issues and Challenges.pdf
+* =区块链技术与应用前瞻综述_何蒲.pdf
+* =区块链技术综述_沈鑫.pdf
